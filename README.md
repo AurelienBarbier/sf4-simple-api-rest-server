@@ -201,6 +201,8 @@ nano src/Entity/Category.php
 ```
 
 > Testons
+
+
 ![It works](https://media.giphy.com/media/3oEjI5VtIhHvK37WYo/giphy.gif)
 
 4. Configuration de l'internationalisation
