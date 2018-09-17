@@ -223,17 +223,19 @@ bin/console cache:clear
 ```
 
 
-### Final 
+### Final
+
+
 
 **Y a plus qu'a test !**
 
 
-![](https://media.giphy.com/media/26BGJ1Ih5NfJsKJm8/giphy.gif)
+![Awesome](https://media.giphy.com/media/26BGJ1Ih5NfJsKJm8/giphy.gif)
 
 
 ## Ressources :
 
-https://symfony.com/doc/current/doctrine.html
-https://www.nielsvandermolen.com/symfony-4-api-platform-application/
-https://github.com/fzaninotto/Faker
-https://symfony.com/doc/master/bundles/DoctrineFixturesBundle/index.html
+* [Databases and the Doctrine ORM](https://symfony.com/doc/current/doctrine.html)
+* [How to build a Symfony 4 API Platform application from scratch](https://www.nielsvandermolen.com/symfony-4-api-platform-application/)
+* [DoctrineFixturesBundle](https://symfony.com/doc/master/bundles/DoctrineFixturesBundle/index.html)
+* [Faker is a PHP library that generates fake data for you](https://github.com/fzaninotto/Faker)
